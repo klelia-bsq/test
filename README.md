@@ -7,3 +7,5 @@ and finaly I will push it to my remote repository
 commit 1
 
 commit 2
+
+commit 3 
